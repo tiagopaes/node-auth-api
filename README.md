@@ -138,7 +138,7 @@ The API is now running locally at `http://localhost:3000`.
 To run tests using Jest, use the following command:
 
 ```bash
-docker-compose exec node-auth-api_app npm test
+docker-compose exec app npm test
 ```
 
 This command will execute the test suite for your Node.js API. Jest will run your tests and display the results in the terminal.
