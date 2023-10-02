@@ -13,7 +13,6 @@ This is a simple Node.js API built with TypeScript, Express, and MongoDB. It inc
   - [Update Password](#update-password)
 - [Testing](#testing)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -152,6 +151,3 @@ For integration tests that use a MongoDB database, consider using a testing data
 
 ## Contributing
 Contributions are welcome! Please feel free to submit issues or pull requests.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/tiagopaes/node-auth-api/blob/master/LICENSE) file for details.
